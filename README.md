@@ -1,6 +1,6 @@
 
 ## Designs
-- [Snake Ladder Game](#snakeLadderGame)
+- [Snake Ladder Game](#snake-ladder-game)
 
 
 ## Snake Ladder Game
