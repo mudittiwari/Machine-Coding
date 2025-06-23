@@ -3,19 +3,13 @@ package controller;
 import building.Building;
 import enums.ButtonState;
 import enums.Direction;
-import floor.Floor;
 import floor.FloorInterface;
-import lift.Lift;
-import enums.TaskSource;
 import lift.LiftInterface;
 import lift.buttonExternal.ButtonExternalInterface;
 import lift.buttonInternal.ButtonInternalInterface;
 import lift.display.Display;
 import lift.display.DisplayInterface;
 import org.teavm.interop.Export;
-
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class LiftController {
